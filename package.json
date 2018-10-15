@@ -1,0 +1,33 @@
+{
+  "name": "code-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "presetup": "yarn install",
+    "setup": "node ./materials/scripts/generate.js"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "babel-polyfill": "^6.26.0",
+    "font-awesome": "^4.7.0",
+    "html-react-parser": "^0.4.6",
+    "prop-types": "^15.6.2",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "redux-form": "^7.4.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.9.1",
+    "react-scripts": "1.0.13"
+  }
+}

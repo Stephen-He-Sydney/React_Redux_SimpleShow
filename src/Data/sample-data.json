@@ -1,0 +1,129 @@
+{
+    "companyInfo": {
+        "companyName": "Reynolds - Haley",
+        "companyMotto": "B2C expedite relationships",
+        "companyEst": "2018-07-18T23:51:17.922Z"
+    },
+    "employees": [
+        {
+            "id": "2a597a9d-a672-4468-b05a-96f7f81032b6",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/damenleeturks/128.jpg",
+            "firstName": "Angus",
+            "lastName": "Lakin",
+            "jobTitle": "Human Accountability Specialist",
+            "age": 27,
+            "bio": "Iste eum esse dolorum qui. Distinctio eos blanditiis aperiam. Molestias qui eaque magnam qui minima laudantium. Sunt et vel excepturi minus nulla.",
+            "dateJoined": "2014-09-06T07:48:37.389Z"
+        },
+        {
+            "id": "d80e597c-33e9-4338-a43d-10d1f040f080",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jomarmen/128.jpg",
+            "firstName": "Sebastian",
+            "lastName": "Moore",
+            "jobTitle": "District Integration Agent",
+            "age": 66,
+            "bio": "Doloremque placeat voluptatem dolorum. Ullam aut qui non qui velit. Quis at animi officiis culpa consequatur maxime et unde et. Quam eaque nobis sunt consequuntur. Minus consequatur deserunt.",
+            "dateJoined": "2014-05-06T04:42:57.423Z"
+        },
+        {
+            "id": "7e67fc35-a2e8-4ee7-885a-3a2649f8381c",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kevinjohndayy/128.jpg",
+            "firstName": "Alexandra",
+            "lastName": "Daugherty",
+            "jobTitle": "Forward Data Facilitator",
+            "age": 45,
+            "bio": "Rerum quas incidunt minima enim qui et ab quaerat provident. Porro et corporis porro ullam magni. Et quasi reiciendis aut vel qui impedit doloribus ut quae.",
+            "dateJoined": "2018-09-28T18:51:38.399Z"
+        },
+        {
+            "id": "45a78a05-e35c-4f95-b25d-1eca1d2fb61c",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rtyukmaev/128.jpg",
+            "firstName": "Mitchell",
+            "lastName": "Larson",
+            "jobTitle": "District Solutions Assistant",
+            "age": 34,
+            "bio": "Asperiores modi quibusdam ad veniam rerum. Aut cumque vel doloribus recusandae doloribus. Delectus autem exercitationem saepe magnam saepe molestias sunt. Et vel perferendis aut iure et sunt ducimus officiis. Aut consequatur quas quidem quae. Quaerat repellendus esse non quod dolores aut similique.",
+            "dateJoined": "2010-10-22T01:28:43.392Z"
+        },
+        {
+            "id": "8789fc28-1498-487f-9988-19419be3a04e",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/coreyginnivan/128.jpg",
+            "firstName": "Abbey",
+            "lastName": "Koelpin",
+            "jobTitle": "Regional Mobility Associate",
+            "age": 53,
+            "bio": "Quo asperiores modi aliquam minima delectus qui ea. Inventore et quod. Et impedit optio velit eos ut adipisci asperiores. Provident incidunt est consequatur culpa labore. Vero distinctio rerum similique ut. Commodi natus tempore ut eos molestias soluta ad fugit atque.",
+            "dateJoined": "2017-12-04T03:30:13.827Z"
+        },
+        {
+            "id": "66a5ff58-2719-42e8-b13b-55b9034a4290",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vlajki/128.jpg",
+            "firstName": "Justin",
+            "lastName": "Leannon",
+            "jobTitle": "Internal Response Orchestrator",
+            "age": 61,
+            "bio": "Est nostrum dolorem sint dignissimos. Esse officia aut. In quia eveniet modi velit sed alias aut. Aut eos nemo quo eum eos aliquam.",
+            "dateJoined": "2017-02-20T19:20:52.537Z"
+        },
+        {
+            "id": "61cdeddd-4901-4019-ad13-c8966bcd45ac",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nvkznemo/128.jpg",
+            "firstName": "Samantha",
+            "lastName": "Walker",
+            "jobTitle": "Forward Interactions Strategist",
+            "age": 59,
+            "bio": "Sint quia a nisi maxime culpa modi. Ut eum magni et consequatur veniam architecto consectetur odit fugiat. In qui voluptas quam eveniet rerum.",
+            "dateJoined": "2017-05-08T20:44:42.460Z"
+        },
+        {
+            "id": "643d40ae-9859-49bf-a47a-e0c97272d04c",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sreejithexp/128.jpg",
+            "firstName": "Blake",
+            "lastName": "Harvey",
+            "jobTitle": "Senior Metrics Supervisor",
+            "age": 38,
+            "bio": "Nulla est et rem qui vel sed hic voluptas libero. Nesciunt modi dicta sit est quidem ratione est. Quidem doloremque temporibus sunt vel dolorem accusamus natus ullam.",
+            "dateJoined": "2012-05-21T02:31:11.790Z"
+        },
+        {
+            "id": "b0322b1b-1d7d-458b-838a-ddca8d4e0d9e",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nilshoenson/128.jpg",
+            "firstName": "Sophie",
+            "lastName": "Lakin",
+            "jobTitle": "Senior Tactics Consultant",
+            "age": 40,
+            "bio": "Fuga vel neque quam ut incidunt. Magnam delectus repellendus beatae ipsam quia. Autem rem cum consequatur. Aut aliquid voluptates nam et.",
+            "dateJoined": "2014-03-21T14:52:33.175Z"
+        },
+        {
+            "id": "86bac856-d32d-48c8-8172-9dfb2f2d79c0",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/terpimost/128.jpg",
+            "firstName": "Aidan",
+            "lastName": "Gleason",
+            "jobTitle": "Central Integration Technician",
+            "age": 65,
+            "bio": "Numquam consequatur vel quisquam et et sit id quam sunt. Similique eveniet in. Deserunt explicabo possimus et.",
+            "dateJoined": "2010-11-14T12:40:44.905Z"
+        },
+        {
+            "id": "71753bd8-9514-459f-ba4c-027e2062a35a",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russell_baylis/128.jpg",
+            "firstName": "Christian",
+            "lastName": "Garden",
+            "jobTitle": "Legacy Creative Officer",
+            "age": 28,
+            "bio": "Libero ut dolores dolor corporis corporis quisquam rerum. Sint blanditiis sint velit magni. Velit natus quis deleniti neque consequatur explicabo et. Ut nostrum quidem laudantium accusantium illo. Dignissimos quia nisi dolorem non deserunt.",
+            "dateJoined": "2014-01-01T03:14:49.120Z"
+        },
+        {
+            "id": "b55d8d85-5c64-4687-9222-3403140c7f73",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vovkasolovev/128.jpg",
+            "firstName": "Samantha",
+            "lastName": "Moore",
+            "jobTitle": "Investor Accounts Associate",
+            "age": 64,
+            "bio": "Voluptas eum aliquam non esse similique odit aliquam sit. Accusamus aut et omnis. Cum et sunt ut consectetur ut a quaerat et enim. Qui molestiae sunt. Ratione dolorum ullam. Ut quo et vel illum sunt nam.",
+            "dateJoined": "2012-02-23T14:27:25.913Z"
+        }
+    ]
+}
